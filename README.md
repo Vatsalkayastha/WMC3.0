@@ -1,2 +1,2 @@
 # WMC3.0
-website code made by vatsal using bootstrap
+website code made by vatsal 
